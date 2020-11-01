@@ -3,7 +3,7 @@
     <p align="center">Banco de Dados: o que é? quais tipos existem? e diferenças entre os diversos tipos de BD.<p>
 </h1>
 
-![Banco de Dados](.\images\banco_de_dados.png);
+![Banco de Dados](./images/banco_de_dados.png);
 
 ### Banco de Dados:
 
